@@ -1,3 +1,5 @@
 "This is the initial content of file.txt"
 
 This is the content of file.txt on the master branch.
+
+Collaborator branch
